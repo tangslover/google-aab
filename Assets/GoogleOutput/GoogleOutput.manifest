@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3537858844
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui/prefabs/launch.unity3d
+      Dependencies: {}
